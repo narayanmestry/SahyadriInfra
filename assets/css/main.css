@@ -572,6 +572,9 @@ section {
   .get-started .php-email-form {
     padding: 20px;
   }
+  .hero .info .short-info{
+    display: none;
+  }
 }
 
 .get-started .php-email-form h3 {
